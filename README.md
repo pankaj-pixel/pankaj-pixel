@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="left">✨I am Pankaj From Chhatarpur,Delhi</h3>
+<h3 align="left">✨Pankaj Kain | Python Developer </h3>
 
 ###
 
-<p align="left">I am Pankaj  Working as Python Developer!💂‍♂️<br><br>- 🔭 I’m working as  Python Developer!<br>- 📚 I'm currently learning Rect js<br>- ⚡ In my free time Sleep!</p>
+<p align="left">Currently working as a Python Developer! 💂‍♂️<br><br>- 🔭 I’m working as  Python Developer!<br>- 📚 Learning FastAPI to broaden my skill sets<br>- ⚡ Enthusiastic about coding and always exploring new technologies!</p>
 
 ###
 
