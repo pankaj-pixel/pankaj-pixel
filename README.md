@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Currently working as a Python Developer! 💂‍♂️<br><br>- 🔭 I’m working as  Python Developer!<br>- 📚 Learning FastAPI to broaden my skill sets<br>- ⚡ Enthusiastic about coding and always exploring new technologies!</p>
+<p align="left"> 🔭 Currently working as a Python Developer! <br>- 📚 Learning FastAPI to broaden my skill sets<br>- ⚡ Enthusiastic about coding and always exploring new technologies!</p>
 
 ###
 
