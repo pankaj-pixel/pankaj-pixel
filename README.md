@@ -7,11 +7,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there Nice To see You 👋</h1>
 
 ###
 
-<h3 align="left">✨Pankaj Kain | Python Developer </h3>
+<h3 align="left">✨ I am Pankaj Kain |a professional Python Developer </h3>
 
 ###
 
