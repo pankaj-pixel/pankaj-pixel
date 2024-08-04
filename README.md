@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="left">✨ I am Pankaj Kain |a professional Python Developer </h3>
+<h3 align="left">✨ I am Pankaj Kain | Professional Python Developer </h3>
 
 ###
 
