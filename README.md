@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">hey there Nice To see You 👋</h1>
+<h1 align="center">Hey there Nice To see You 👋</h1>
 
 ###
 
