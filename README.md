@@ -44,9 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Microsoft_Excel_2013_logo.svg" height="40" alt="Excel logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Power_BI_Logo_2015.svg" height="40" alt="Power BI logo" />
+ 
 
   
 
