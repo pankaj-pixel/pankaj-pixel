@@ -52,8 +52,9 @@
 <h3 align="left">🛠 What You'll Find Here</h3>
 <p align="left"> <br>- 📚 Projects : Explore my work in Data Analysis ,Visualization and Machine Learning<br>
 <a href="https://github.com/pankaj-pixel/PoweBI-DashBoard.git">Sales Insight Dashboard</a>
-###
+<a href="https://github.com/pankaj-pixel/NLP.git">Duplicate Question Predector in Quora</a>
 
 
 
-###
+
+https://github.com/pankaj-pixel/NLP.git  
