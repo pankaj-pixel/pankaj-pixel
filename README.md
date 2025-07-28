@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left"> 🔭 Currently working as a Python Developer! <br>- 📚 Learning data analytics to broaden my skill sets<br>- ⚡ Enthusiastic about coding and always exploring new technologies!</p>
+<p align="left"> 🔭 Currently working as a Python Developer! <br>- 📚 Learning devOps to broaden my skill sets<br>- ⚡ Enthusiastic about coding and always exploring new technologies!</p>
 
 ###
 
